@@ -1,2 +1,3 @@
 # Electronics-SVG
-Some vector images of electronic components
+Vector images of electronic components / boards created in InkScape.
+
